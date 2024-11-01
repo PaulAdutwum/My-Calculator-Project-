@@ -1,4 +1,4 @@
-# # Lexi's Calculator
+# # Paul's  Calculator Project 
 
 This is a simple calculator application written in Python. It allows users to perform basic arithmetic operations including addition, subtraction, multiplication, division, exponentiation, and integer division.
 
