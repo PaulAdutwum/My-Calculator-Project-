@@ -23,7 +23,4 @@ To use the calculator, run the `calculator.py` script. Follow the on-screen prom
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/my_calculator_project.git
-   cd my_calculator_project
+1. Clone the repository
